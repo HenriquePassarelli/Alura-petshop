@@ -9,6 +9,7 @@ npm install
 ```
 npm start
 ```
+** if npm didn't run the dependencies run the code below **
 
 #### Install react router
 ```
@@ -23,6 +24,8 @@ npm i axios
 ```
 npm i json-server
 ```
+before use start the server 
+
 #### Run json server
 ```
 npx json-server --watch db.json -- port 5000
